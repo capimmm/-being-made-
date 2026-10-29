@@ -1,12 +1,27 @@
-# Atualização 1
+# Atualização 1 
+1. Animações do Personagem
+Corrida
 
-Foi adicionado
-1 Animações para o personagem
-. corrida . andar . ficar parado . agachar parado . agachar andando
-2 Topbar personalizada feita
-. melhorias nela como: animações bonita intergridade com a do roblox . adicionado novos botoes . adicionado ping e ms
-3 Menus basicos
-. menus foram criados como: menu principal e configurações
-4 
+Andar
 
-- 28 outubro 2026
+Ficar parado (Idle)
+
+Agachar parado
+
+Agachar andando
+
+2. Topbar Personalizada
+Nova interface fluida com animações refinadas.
+
+Integração nativa e harmônica com a barra padrão do Roblox.
+
+Novos botões adicionados.
+
+Exibição em tempo real de Ping e MS.
+
+3. Menus Básicos
+Criação do Menu Principal.
+
+Criação do Menu de Configurações.
+
+— 28 de Outubro de 2026
