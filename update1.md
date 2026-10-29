@@ -24,4 +24,4 @@ Criação do Menu Principal.
 
 Criação do Menu de Configurações.
 
-— 28 de Outubro de 2026
+ — 28 de Outubro de 2026
